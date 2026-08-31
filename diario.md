@@ -126,3 +126,6 @@ $$
 | **Motores Industriais** | Predominantemente Trifásicos | Bombas industriais, compressores, esteiras transportadoras, pontes rolantes e exaustores | Alto rendimento (IE2, IE3, IE4), alto torque de partida, construção robusta em ferro fundido ou alumínio, regime de operação contínuo (S1) |
 | **Motores Comerciais** | Monofásicos ou Fracionários | Portões automáticos, compressores de ar de oficina, betoneiras, lavadoras, sistemas de ventilação comercial | Dimensionados para redes residenciais/comerciais (127V/220V), uso intermitente ou de menor potência, construção leve |
 
+
+## 2026-08-31
+Parte 1 - Tipos de motores
