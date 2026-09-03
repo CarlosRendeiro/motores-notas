@@ -11,3 +11,4 @@
     - [ ] 3. Classes de Isolamento
     - [ ] 4. Ventilação, Flanges e Placa de Identificação
   - [ ] Módulo 3: Linha de Produtos
+- [ ] Introdução aos Motores Elétricos
