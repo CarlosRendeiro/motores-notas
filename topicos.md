@@ -9,6 +9,8 @@
   - [ ] Assíncronos:
 - [ ] Motor CC (Corrente Contínua):
 - [ ] Motor CA (Corrente Alternada):
+  - [ ] Síncronos:
+  - [ ] Assíncronos:
 - [ ] São os mais utilizados, pois a distribuição de energia elétrica é feita predominantemente em corrente alternada.
   - [ ] Síncronos:
   - [ ] Assíncronos:
