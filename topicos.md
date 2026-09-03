@@ -1,6 +1,6 @@
 # Tópicos — Motores
 
-- [x] Módulo 1 - Motor Elétrico e Conceitos Básicos
+- [ ] Módulo 1 - Motor Elétrico e Conceitos Básicos
 - [ ] Resumo: Motores Elétricos
   - [ ] 1 - Motor Elétrico e Conceitos Básicos
     - [ ] 1. Motor Elétrico
